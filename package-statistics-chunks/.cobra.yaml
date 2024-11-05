@@ -1,0 +1,3 @@
+debianURL: "http://ftp.uk.debian.org/debian/dists/stable/main/"
+outputFile: "./files"
+chunkSize: 176171
